@@ -1,0 +1,6 @@
+To successfully deliver to HJRP, you nust follow the policies below:
+
+1. Valid SPF, DKIM records.
+2. Valid PTR records.
+
+Failure to follow these policies may result in your email being rejected.
